@@ -1,6 +1,6 @@
 .vscode/
 build
-.ccls_cache/
+.ccls-cache/
 .cache/
 debug/
 Debug/
