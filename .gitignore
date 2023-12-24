@@ -1,5 +1,7 @@
 .vscode/
 build
+.ccls_cache/
+.cache/
 debug/
 Debug/
 .vs/
